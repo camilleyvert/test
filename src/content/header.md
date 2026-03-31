@@ -1,6 +1,6 @@
 ---
 disabled: false
-fixed: false
+fixed: true
 brandText: "test"
 disableBrand: false
 ---

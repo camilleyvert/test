@@ -13,5 +13,15 @@
   "@id": "https://camilleyvert.github.io/test",
   "@type": "site",
   "site_id": "7d942d09-355c-462d-add9-ebc674d37351",
-  "connections": []
+  "connections": [
+    {
+      "@id": "urn:uuid:e9cb959d-6a69-4b8e-836f-37fbe78bf45f",
+      "@type": "connection",
+      "connected_site": {
+        "@id": "https://solidary.netlify.app",
+        "@type": "index",
+        "site_id": "cce75c1e-db27-429a-a8b1-213c4ea4f986"
+      }
+    }
+  ]
 }
