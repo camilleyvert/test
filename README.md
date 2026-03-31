@@ -1,2 +1,3 @@
-# test
-Describe your site in a sentence or two.
+# Your new Solidary site
+
+This site has been built using the Solidary pages builder.
